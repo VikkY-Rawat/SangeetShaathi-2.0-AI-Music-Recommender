@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+data/feedback.sqlite3
+models/emotion/*
+models/embeddings/*
+!models/emotion/.gitkeep
+!models/embeddings/.gitkeep
